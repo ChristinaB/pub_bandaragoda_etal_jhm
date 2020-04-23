@@ -23,3 +23,26 @@ P_(OM,\ i,\ j)=\overline P_(M,\ i,\ j)/\begin\overline P\ \ 〗_(O,i,j )
 ```markdown
 ![Equation 2](https://github.com/ChristinaB/pub_bandaragoda_etal_jhm/blob/master/images/Equation2.png)
 ```
+### Equation 3: 
+![Equation 3](https://github.com/ChristinaB/pub_bandaragoda_etal_jhm/blob/master/images/Equation3.png)
+
+#### Latex code for equation
+```markdown
+T_(H,\ i,\ j)=\ T_(M,\ i,\ j)+T_(\begin OM〗^*,i,j) 
+```
+#### Markdown code to link image
+```markdown
+!![Equation 3](https://github.com/ChristinaB/pub_bandaragoda_etal_jhm/blob/master/images/Equation3.png)
+```
+ 
+### Equation 4: 
+![Equation 4](https://github.com/ChristinaB/pub_bandaragoda_etal_jhm/blob/master/images/Equation4.png)
+
+#### Latex code for equation
+```markdown
+P_(H,\ i,\ j)=P_(L,\ i,\ j)\ast P_(\begin OM〗^*,i,j)
+```
+#### Markdown code to link image
+```markdown
+!![Equation 4](https://github.com/ChristinaB/pub_bandaragoda_etal_jhm/blob/master/images/Equation4.png)
+```
