@@ -5,7 +5,7 @@
 
 #### Latex code for equation
 ```markdown
-\begin∆¯T〗_(OM,i,j)= 〖∆¯T〗_(M,i,j)- 〖∆¯T〗_(O,i,j)
+\begin T〗_(〖OM〗^*,i,j)= 〖∆¯T〗_(M,i,j)- 〖∆¯T〗_(O,i,j)  
 ```
 #### Markdown code to link image
 ```markdown
@@ -17,7 +17,7 @@
 
 #### Latex code for equation
 ```markdown
-P_(OM,\ i,\ j)=\overline P_(M,\ i,\ j)/\begin\overline P\ \ 〗_(O,i,j ) 
+P_(OM\begin OM〗^*,i,j)=¯P_(M,i,j)/〖¯P  〗_(O,i,j )    
 ```
 #### Markdown code to link image
 ```markdown
@@ -28,7 +28,7 @@ P_(OM,\ i,\ j)=\overline P_(M,\ i,\ j)/\begin\overline P\ \ 〗_(O,i,j )
 
 #### Latex code for equation
 ```markdown
-T_(H,\ i,\ j)=\ T_(M,\ i,\ j)+T_(\begin OM〗^*,i,j) 
+T_(H,\ i,\ j)=\ T_(MO,\ i,\ j)+T_(\begin OM〗^*,i,j)  
 ```
 #### Markdown code to link image
 ```markdown
@@ -40,7 +40,7 @@ T_(H,\ i,\ j)=\ T_(M,\ i,\ j)+T_(\begin OM〗^*,i,j)
 
 #### Latex code for equation
 ```markdown
-P_(H,\ i,\ j)=P_(L,\ i,\ j)\ast P_(\begin OM〗^*,i,j)
+P_(H,\ i,\ j)=P_(LO,\ i,\ j)\ast P_(\begin OM〗^*,i,j)  
 ```
 #### Markdown code to link image
 ```markdown
